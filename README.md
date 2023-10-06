@@ -8,10 +8,10 @@
 <img src="https://img.shields.io/badge/C-A8B9CC.svg?style&logo=C&logoColor=black" alt="C" />
 <img src="https://img.shields.io/badge/Markdown-000000.svg?style&logo=Markdown&logoColor=white" alt="Markdown" />
 </p>
-<img src="https://img.shields.io/github/license/SamyOffer/Projet_Botnet?style&color=5D6D7E" alt="GitHub license" />
-<img src="https://img.shields.io/github/last-commit/SamyOffer/Projet_Botnet?style&color=5D6D7E" alt="git-last-commit" />
-<img src="https://img.shields.io/github/commit-activity/m/SamyOffer/Projet_Botnet?style&color=5D6D7E" alt="GitHub commit activity" />
-<img src="https://img.shields.io/github/languages/top/SamyOffer/Projet_Botnet?style&color=5D6D7E" alt="GitHub top language" />
+<img src="https://img.shields.io/github/license/prygal98/Botnet_project?style&color=5D6D7E" alt="GitHub license" />
+<img src="https://img.shields.io/github/last-commit/prygal98/Botnet_project?style&color=5D6D7E" alt="git-last-commit" />
+<img src="https://img.shields.io/github/commit-activity/m/prygal98/Botnet_project?style&color=5D6D7E" alt="GitHub commit activity" />
+<img src="https://img.shields.io/github/languages/top/prygal98/Botnet_project?style&color=5D6D7E" alt="GitHub top language" />
 </div>
 
 ---
@@ -57,12 +57,12 @@ This repository contains "Projet Botnet," a project I've developed in the C prog
 
 1. Clone the Projet_Botnet repository:
 ```sh
-git clone https://github.com/SamyOffer/Projet_Botnet
+git clone https://github.com/prygal98/Botnet_project
 ```
 
 2. Change to the project directory:
 ```sh
-cd Projet_Botnet
+cd Botnet_project
 ```
 
 ### 🤖 Running Projet_Botnet
